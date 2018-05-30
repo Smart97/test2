@@ -1,0 +1,36 @@
+div {
+    border: solid #000 2px;
+    box-sizing: border-box;
+}
+body {
+    padding: 10px;
+}
+.page {
+    width: 100%;
+}
+.header {
+    width: 100%;
+}
+.logo {
+    height: 200px;
+    background: #5ed9dd;
+}
+.site_name>h1 {
+    font-family: "Comic Sans MS" Andalus;
+    color: #7584e8;
+    font-size: 50px;
+}
+.main {
+    width: 100%;
+}
+.something {
+    height: 250px;
+    background: #dd635d;
+    padding: 5px;
+}
+.row {
+    border: none;
+}
+.container {
+    border: none;
+}
